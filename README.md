@@ -2,7 +2,7 @@
 
 ## Includes
 
-- Express server
+- koa server
 - Vanilla TRPCClient in Node
 
 ## Usage
